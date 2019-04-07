@@ -1,2 +1,4 @@
 # nepal
-Nepali Develpoper
+Python Developer.
+Data analyst.
+
